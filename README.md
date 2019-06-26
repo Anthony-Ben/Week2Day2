@@ -10,4 +10,4 @@ Create a car registration application.
 7. Experiment with at least 10 different attributes for your views/viewgroups.
 
 ![](/images/CodingWeek2Day2SS2.PNG)
-![](/images/CodingWeek2Day2SS1.PNG)
+![](/images/CodingWeek2Day2SS.PNG)
